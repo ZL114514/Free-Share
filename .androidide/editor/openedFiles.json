@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/FreeShare/app/src/main/java/moe/zl/freeshare/MainHook.java",
+      "selection": {
+        "end": {
+          "column": 49,
+          "index": 2137,
+          "line": 60
+        },
+        "start": {
+          "column": 49,
+          "index": 2137,
+          "line": 60
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/FreeShare/app/src/main/java/moe/zl/freeshare/MainHook.java"
+}
